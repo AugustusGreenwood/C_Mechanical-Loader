@@ -1,0 +1,7 @@
+dwell_time  =   0.0
+length  =   500
+HSPD    =   800
+Accel   =   100000000
+Scurve  =   1
+cycles  =   3
+name    =   DW-1_HS-5000_AC-10000_0.5mm_SIN.txt
