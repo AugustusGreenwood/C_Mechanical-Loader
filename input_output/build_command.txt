@@ -1,0 +1,2 @@
+BUILD EVERYTHING:
+gcc -o main .\main.c .\src\* C:\Users\augustus\Documents\msys2\mingw64\lib\libusb-1.0.a -I.\include\ -L.\src\ -Wall

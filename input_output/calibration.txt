@@ -1,0 +1,12 @@
+## Values
+## High Speed = 4900
+## Low Speed = 300
+## Acceleration = 1000
+## Deceleration = 300
+## Position = 24
+## Idle Time = 1
+## Accel/Decel profile = Sinusoidal
+## End cycle time = 2.147867
+## Desired cycle time = 2.000000
+## Tolerance = 0.900000
+## Dwell time = 0.000000
